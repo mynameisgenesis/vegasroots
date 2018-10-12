@@ -16,7 +16,7 @@
     </div>
   </div>
 
-  <div class="container gallery-container">
+<!-- <div class="container gallery-container"> -->
 
       <div class="tz-gallery">
 
@@ -60,7 +60,7 @@
 
       </div>
 
-  </div>
+  <!-- </div> -->
 
 </main>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
