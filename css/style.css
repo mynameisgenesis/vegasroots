@@ -1,0 +1,48 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+nav{
+  background-color: #7CA650;
+}
+nav a {
+  font-family: 'Niramit', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Niramit', sans-serif;
+}
+
+.hero {
+  background: url('../img/digging.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  transition: .3s ease;
+  height: 100vh;
+}
+
+#hero-content {
+  margin-top: 10%;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #7CA650;
+  border-color: #7CA650;
+}
+
+.btn:focus, .btn:active, button:focus, button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#image-gallery .modal-footer{
+  display: block;
+}
+
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
