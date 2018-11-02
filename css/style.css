@@ -33,6 +33,11 @@ h1,h2,h3,h4,h5,h6{
   border-color: #7CA650;
 }
 
+.btn-primary:hover {
+  background-color: darker(#7CA650,40%);
+  border-color: darker(#7CA650,40%);
+}
+
 .btn:focus, .btn:active, button:focus, button:active {
   outline: none !important;
   box-shadow: none !important;

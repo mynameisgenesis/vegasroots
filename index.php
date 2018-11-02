@@ -10,7 +10,7 @@
         <hr class="my-4">
         <p>Nourishing the community with freshly grown foods!</p>
         <p class="lead">
-          <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+          <a class="btn btn-primary btn-lg" href="pages/get-involved.php" role="button">Volunteer</a>
         </p>
       </div>
     </div>

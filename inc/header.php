@@ -22,22 +22,22 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="#">Home</a>
+              <a class="nav-link" href="pages/index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Blog</a>
+              <a class="nav-link" href="pages/blog.php">Blog</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="pages/about.php">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Programs</a>
+              <a class="nav-link" href="pages/programs.php">Programs</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Events</a>
+              <a class="nav-link" href="pages/events.php">Events</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Get Involved</a>
+              <a class="nav-link" href="pages/get-involved.php">Get Involved</a>
             </li>
           </ul>
         </div>
